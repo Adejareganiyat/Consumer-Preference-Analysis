@@ -99,28 +99,13 @@ Created several measures to help with my analysis such as
 
 
 #### INSIGHTS/RECOMMENDATIONS
-![](Insights_Recommendation.png)
+![](Insights-Recommendation.png)
 
 
 
-## Insights/Recommendation
-
-- The analysis indicated that the United States exhibits strong sales performance reflecting a significant market presence and successful marketing efforts. Germany, however shows the lowest sales figure indicating the need for intensified marketing efforts. Further analysis is recommended to understand the specific factors contributing to sales while targeted marketing campaigns, improved distribution channels and innovative strategies should be implemented to address regions with lower sales.  This action will optimize revenue generation.
 
 
-- The most sold product is AWC LOGO CAP. This product has high demand suggesting its popularity among customers.it is essential to understand the factors driving the high demand of this product amongst  the other products such as unique design, branding or customer appeal. By leveraging the insight gained from the success of this product , the company can explore opportunities to introduce similar products or expand the product line to meet customer preference  and maximize sales potential.
 
 
-- Bikes which is the major product the company manufactures, generated the most in sales revenue. The company can capitalize on the strength by further investing in more bike related products, marketing campaigns and product development to maintain a competitive edge in the market. analysing customer preference within the bike category and offering diverse bile models can help drive continued growth and revenue.
 
 
- - The "LL Touring Frame-Black-58" in the  bike component category hold the top position in terms of lowest order quantity. To improve sales, the company should focus on adjusting marketing efforts and gathering customer feedback for this product as well as other items within the same lower tier. addressing these products will help enhance demand and maximize revenue.
-
-
-- "Vigorous Exercise Company" emerged as the top performing store by quantity sold. The company should analyse factors contributing to the success of the vigorous exercise company such as effective marketing campaigns and exceptional customer service. These can be replicated across other stores to maximize sales potential.
-
-
-- Ashley Henderson emerged as the top customer based on quantity bought while Nichole Nara emerged as the top customer based on sales value demonstrating loyalty and significant value to the company. the company should tailor personalized offers, exclusive promotions and a seamless customer experience to strengthen the relationship with them . The company can also increase sales by encourage word-of -mouth referrals to attract new customers.
-
-
-- The sales performance in 2014 experienced a reduction compared to the previous year, 2013. However, there is a potential for improvements in the remaining quarters of 2014, particularly by focusing efforts on products with low sales. the company will need to monitor sales progress throughout the remaining quarters of 2014 and make necessary adjustments to maximize sales potentials.
