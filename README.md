@@ -84,18 +84,18 @@ Created several measures to help with my analysis such as
  3. Consumer Details
  4. Insights/Recommendation
 
-**Here are the screenshot of the report and it can be interacted with on PowerBI [here](https://app.powerbi.com/view?r=eyJrIjoiMDFjMWQ4OGYtMDI5YS00NjA3LWI0ZDMtMmU0OWJhZDFmOGFhIiwidCI6IjQ1YWMwYzZhLWQ0NzUtNDcxNS1hMmFhLTMwMDk2OGM1Y2U4MCIsImMiOjl9)
+**Here are the screenshot of the report and it can be interacted with on PowerBI [here](https://app.powerbi.com/view?r=eyJrIjoiMGJiOTE5OGMtMjM0Mi00OGNkLWE3ZDAtY2Y2Y2JhZTg0NDA1IiwidCI6IjQ1YWMwYzZhLWQ0NzUtNDcxNS1hMmFhLTMwMDk2OGM1Y2U4MCIsImMiOjl9)
 
 #### SALES 
-![](Sales_Overview.png)
+![](Sales_Details.png)
 
 
 #### CONSUMER 
-![](Consumer_Overview.png)
+![](Consumer_Details.png)
 
 
 #### PRODUCT 
-![](Products_Overview.png)
+![](Products_Details.png)
 
 
 #### INSIGHTS/RECOMMENDATIONS
