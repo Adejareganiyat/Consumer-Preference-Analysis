@@ -1,10 +1,10 @@
 
-# Consumer-Preference-Analysis
+# SellCheapy_Consumer_Spending_Analysis
 
 ![](SellCheapy_Bike&Retail.png)
 ---
 ## Introduction
-This is a PowerBI project on consumer analysis of a fictitious company called **SellCheapy Stores** that specialises in Bikes and different components.The project aim is to analyze and derive insights to understand customer spending in other to increase sales and drive business growth.
+This is a PowerBI project on consumer spending analysis of a fictitious company called **SellCheapy Stores** that specialises in Bikes and different components.The project aim is to analyze and derive insights to understand their customer spending in other to increase sales and drive business growth.
 
 
 ## Problem Statement
@@ -79,9 +79,9 @@ Created several measures to help with my analysis such as
  
  ## Data Visualization
  Created a 4 page report that includes 
- 1. Sales Overview
- 2. Product Overview
- 3. Consumer Overview
+ 1. Sales Details
+ 2. Products Details
+ 3. Consumer Details
  4. Insights/Recommendation
 
 **Here are the screenshot of the report and it can be interacted with on PowerBI [here](https://app.powerbi.com/view?r=eyJrIjoiMDFjMWQ4OGYtMDI5YS00NjA3LWI0ZDMtMmU0OWJhZDFmOGFhIiwidCI6IjQ1YWMwYzZhLWQ0NzUtNDcxNS1hMmFhLTMwMDk2OGM1Y2U4MCIsImMiOjl9)
